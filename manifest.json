@@ -1,7 +1,7 @@
 {
 	"id": "mrj-search-link-copy",
 	"name": "Copy found file as a link",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "0.9.12",
 	"description": "Adds an ability to copy file as a link",
 	"author": "MrJackphil",
